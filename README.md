@@ -7,5 +7,4 @@ This repository contains all of the notes taken by [Your Name] for the Lighthous
 
 ###### This is an H6 header(smallest)## Summary 
 
-... taken by [Rukiye] 
-(https://github.com/rukiyeozmen/lighthouse-web-notes) for the ...
+... taken by [Rukiye](https://github.com/rukiyeozmen/lighthouse-web-notes) for the ...
